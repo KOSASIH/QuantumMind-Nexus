@@ -112,6 +112,75 @@ The QuantumMind Nexus faces several challenges on its journey to revolutionize h
 
 By systematically addressing these additional challenges, the QuantumMind Nexus aims to fortify its position at the forefront of innovation, shaping a future where quantum computing and neural networks synergize to redefine the capabilities of the human mind.
 
+# Contributor Guide 
+
+**QuantumMind Nexus GitHub Repository Contributor Guide**
+
+Welcome to the QuantumMind Nexus project! We appreciate your interest in contributing. Please follow this guide to ensure a smooth and collaborative experience:
+
+### Getting Started
+
+1. **Fork the Repository:**
+   - Fork the QuantumMind Nexus repository to your GitHub account.
+
+2. **Clone the Repository:**
+   - Clone the forked repository to your local machine using:
+     ```
+     git clone https://github.com/KOSASIH/QuantumMind-Nexus.git
+     ```
+
+3. **Create a Branch:**
+   - Create a new branch for your contribution:
+     ```
+     git checkout -b feature/your-feature
+     ```
+
+### Code Contribution
+
+4. **Write Code:**
+   - Implement your changes, following the coding style and guidelines outlined in the project's documentation.
+
+5. **Test Your Changes:**
+   - Ensure that your code changes pass any existing unit tests. If applicable, add new tests to maintain or improve code coverage.
+
+6. **Documentation:**
+   - Document your code changes comprehensively. This includes inline comments and updating any relevant documentation files.
+
+7. **Commit Changes:**
+   - Commit your changes with a clear and concise commit message:
+     ```
+     git commit -m "Add your descriptive commit message here"
+     ```
+
+8. **Push Changes:**
+   - Push your changes to your forked repository:
+     ```
+     git push origin feature/your-feature
+     ```
+
+### Submitting a Pull Request
+
+9. **Create Pull Request:**
+   - Go to the original QuantumMind Nexus repository on GitHub and create a pull request from your branch to the main branch.
+
+10. **Describe Your Pull Request:**
+    - Provide a detailed description of your changes in the pull request. Include any relevant information that would help reviewers understand the purpose and impact of your contribution.
+
+11. **Review Process:**
+    - Be responsive to any feedback or review comments. Make necessary changes based on the feedback received.
+
+12. **Merge Approval:**
+    - Once your pull request has been reviewed and approved, it will be merged into the main branch.
+
+### Code of Conduct
+
+13. **Follow Code of Conduct:**
+    - Respect the project's code of conduct. Be collaborative, inclusive, and constructive in all interactions.
+
+### Thank You!
+
+Thank you for contributing to the QuantumMind Nexus project. Your efforts help advance the cutting-edge work at the intersection of quantum computing and neural networks. If you have any questions, feel free to reach out to the project maintainers. Happy coding!
+
 # Tutorials 
 
 ```python
