@@ -10,7 +10,7 @@ To advance human understanding by synthesizing quantum computing and neural netw
 - [Technologies](#technologies)
 - [Problems To Solve](#problems-to-solve)
 - [Contributor Guide](#contributor-guide)
-- [Tutorial](#tutorials)
+- [Tutorials](#tutorials)
 - [Roadmap](#roadmap)
 - [Aknowledgement](aknowledgement.md) 
 
